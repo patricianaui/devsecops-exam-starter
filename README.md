@@ -43,6 +43,10 @@ When pushed to GitHub, the Trivy Security Scan step flagged multiple High and Cr
 
 ![alt text](<Screenshot 2026-09-14 at 10.22.30 PM.png>)
 
+(The following screenshot is to show that the Docker image has been built successfully; the previous screenshot shows the pipeline failure that prevented the Docker image from being built due to the security scan preventing the remaining steps from being executed).
+
+![alt text](<Screenshot 2026-09-14 at 10.39.12 PM.png>)
+
 ---
 
 ## Challenges Faced
